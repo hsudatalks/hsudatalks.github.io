@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xuda.me/"/>
-  <updated>2018-08-27T06:21:37.386Z</updated>
+  <updated>2018-03-26T16:49:21.784Z</updated>
   <id>http://xuda.me/</id>
   
   <author>
@@ -21,15 +21,58 @@
     <link href="http://xuda.me/2018/08/27/hello-world/"/>
     <id>http://xuda.me/2018/08/27/hello-world/</id>
     <published>2018-08-27T09:02:59.900Z</published>
-    <updated>2018-08-27T06:21:37.386Z</updated>
+    <updated>2018-03-26T16:49:21.784Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="hljs highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.i
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>技术支持工作手册</title>
+    <link href="http://xuda.me/2018/02/07/technical-guide/"/>
+    <id>http://xuda.me/2018/02/07/technical-guide/</id>
+    <published>2018-02-07T02:39:51.000Z</published>
+    <updated>2018-03-26T16:49:21.785Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>技术支持岗位主要工作职责是在节能改造项目中，对项目各个阶段，为客户以及其他部门提供暖通、自控等各类技术支撑。在工作过程中，需要出具各类文档、图纸等技术资料，为了规范所有技术支持的文档格式，实现大多数工作的自动化，请各位技术支持同事务必<strong>认真</strong>阅读该工作手册。</p><h2 id="文档标准"><a href="#文档标准" class="headerlink" title="文档标准"></a>文档标准</h2><p>根据目前所需要出具的资料，我们设定了一些基本的原则：</p><ul><li>同类型的文档需要具备相同的排版格式。</li><li>交付给客户的文档必须为PDF格式。</li><li>所有工作必须基于版本管理系统。</li></ul><h2 id="基础工具选择"><a href="#基础工具选择" class="headerlink" title="基础工具选择"></a>基础工具选择</h2><p>公司目前对于工具选择没有强制性标准，各位同事可以在满足工作流的情况下，自由选择所需要的工具。</p><h3 id="挑选一款顺手的编辑器"><a href="#挑选一款顺手的编辑器" class="headerlink" title="挑选一款顺手的编辑器"></a>挑选一款顺手的编辑器</h3><p>虽然每个人的习惯不太一样，但是我们依然建议大家将输入型的工作放在一款编辑器中进行，比如：Visual Studio Code、Atom、Vim、Sublime Text等等。尽量避免在不同的编辑环境中切换。</p><p>同样，我们不建议使用Microsoft Word，一方面Word最终生成的是二进制格式，除非基于Office 365，不然难以做版本管理，很难嵌入其他的工作流中，另一方面Word里隐藏了许多格式标记，对于新手，很容易出现不规范的排版格式。（当然，公司给每位员工订阅了正版的Word，如果有需要，个人可以小范围使用。）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;技术支持岗位主要工作职责是在节能改造项目中，对项目各个阶段，为客户以及其他部门提供暖通、自控等各类技术支撑。在工作过程中，需要出具各类文档、
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>你好，旅行者</title>
+    <link href="http://xuda.me/2018/02/07/welcome/"/>
+    <id>http://xuda.me/2018/02/07/welcome/</id>
+    <published>2018-02-07T02:16:37.000Z</published>
+    <updated>2018-03-26T16:49:21.786Z</updated>
+    
+    <content type="html"><![CDATA[<p>欢迎来到我的博客，如果你是第一次来到这里，请抽时间阅读一下这篇文章的内容，可以避免很多误解。</p><h2 id="关于严谨"><a href="#关于严谨" class="headerlink" title="关于严谨"></a>关于严谨</h2><p>博客里有很多技术文章，虽然我力求每篇文章的内容认真、严谨，但是在您用于生产环境之前，您需要仔细理解文章中所涉及到的各类解决方案，避免对您的生产环境造成意外的风险。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;欢迎来到我的博客，如果你是第一次来到这里，请抽时间阅读一下这篇文章的内容，可以避免很多误解。&lt;/p&gt;
+&lt;h2 id=&quot;关于严谨&quot;&gt;&lt;a href=&quot;#关于严谨&quot; class=&quot;headerlink&quot; title=&quot;关于严谨&quot;&gt;&lt;/a&gt;关于严谨&lt;/h2&gt;&lt;p&gt;博客里有很多技术
       
     
     </summary>
